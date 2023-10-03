@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Lee</h1>
-<h3 align="center">A full stack web developer looking for work</h3>
+<h3 align="center">A Full Stack Web Developer looking for work</h3>
 
 - 🔭 I’m currently working on [Country Donutz](https://github.com/mattjhlee/country-donutz)
 
