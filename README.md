@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Country Donutz](https://github.com/mattjhlee/country-donutz)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Tailwind, SQL**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Tailwind, SQL, AWS Cloud Practitioner**
 
 - 📝 I regularly write articles on [https://medium.com/@mattjhlee25](https://medium.com/@mattjhlee25)
 
