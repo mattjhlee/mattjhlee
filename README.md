@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Lee</h1>
 <h3 align="center">A Full Stack Web Developer looking for work</h3>
 
-- 🔭 I’m currently working on [Country Donutz](https://github.com/mattjhlee/country-donutz)
+- 🔭 I’m currently working on [Country Donutz](https://github.com/mattjhlee/country-donutz) and [My Portfolio Website](https://github.com/mattjhlee/my-portfolio)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Tailwind, SQL, AWS Cloud Practitioner**
 
